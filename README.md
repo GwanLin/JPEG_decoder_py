@@ -1,5 +1,18 @@
 ## Previous Notice
 - This JPEG decoder is implemented in Python.
+- Please install the `numpy` module for array operation
+- Please install the `PIL` module for Image Saving
+
+In terminal:
+
+```python -m pip install numpy``` 
+```python -m pip install Pillow````
+
+In Jupyter notebook:
+
+```!pip install numpy```
+
+```!pip install Pillow```
 
 ## Download the code
 clone the git to file name JPEG
