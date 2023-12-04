@@ -15,3 +15,6 @@ clone the git to file name JPEG
 ## Result
 
 The BMP file <filename.bmp> will be stored in its corresponding path.
+
+- All the codes and images work in macbook
+  
