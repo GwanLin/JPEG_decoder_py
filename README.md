@@ -6,6 +6,7 @@
 In terminal:
 
 ```python -m pip install numpy``` 
+
 ```python -m pip install Pillow````
 
 In Jupyter notebook:
