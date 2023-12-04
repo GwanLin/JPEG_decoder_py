@@ -3,6 +3,7 @@
 
 ## Download the code
 clone the git to file name JPEG
+
 ```git clone https://github.com/GwanLin/JPEG_decoder_py.git <JPEG>```
 
 ## Ensure the jpg images are in the same file with py JPEG_decoder_py
